@@ -18,8 +18,11 @@ In addition to citing our paper, we request the following text be included in yo
 
 At this point, you should have the following data structure and the SAIVT-SoftBio database is installed:
 > SAIVT-SoftBio 
+
 > +-- Calibration 
+
 > +-- C1--U1-17 
+
 > +-- C2--U18-48 
 > ... 
 > +-- C10--U140-152 
