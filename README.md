@@ -24,17 +24,29 @@ At this point, you should have the following data structure and the SAIVT-SoftBi
 > +-- C1--U1-17 
 
 > +-- C2--U18-48 
+
 > ... 
+
 > +-- C10--U140-152 
+
 > +-- Uncontrolled 
+
 > +-- Subject001 
+
 > +-- Subject002 
+
 > +-- Subject003 
+
 > ... 
+
 > +-- Subject152 
+
 > +-- Bialkowski2012 - A database for person re-identification in multi-camera surveillance networks.pdf 
+
 > +-- LICENSE.txt 
+
 > +-- README.txt 
+
 > +-- SAIVTSoftBioDatabase.xml
 
 The 'Calibration' directory contains a camera calibration and background images (one image per camera) for the dataset. It is arranged into groups of subjects (i.e. C1--U1-17 contains camera calibration and background images valid for subjects 1 to 17). All camera calibration has been calculated using Tsai's method.
